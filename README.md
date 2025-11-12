@@ -85,4 +85,4 @@ Mediante cambios sutiles pero fundamentados en principios de UX, es posible redu
 
 Para ver una versión interactiva de la presentación, haz clic en el siguiente enlace (alojado en Canva):
 
-### [Ver la Presentación Interactiva (en Canva)](AQUI_PEGAS_EL_LINK_DE_CANVA)
+### [Ver la Presentación Interactiva (en Canva)](Caso_de_Estudio_UX_Fravega.pptx)
