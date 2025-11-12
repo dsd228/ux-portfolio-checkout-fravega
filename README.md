@@ -71,7 +71,7 @@ Muestra el campo de teléfono con microcopy de ayuda y la opción "Consumidor Fi
 
 Al seleccionar "Factura A", la interfaz revela de forma limpia los campos condicionales (CUIT y Razón Social) necesarios para ese flujo.
 
-(URL_DE_TU_IMAGEN_2_AQUI)
+frame2.png
 
 ## 5\. Conclusiones y Próximos Pasos
 
