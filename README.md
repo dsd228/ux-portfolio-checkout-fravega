@@ -82,4 +82,4 @@ Mediante cambios sutiles pero fundamentados en principios de UX, es posible redu
 1.  **Test de Usabilidad:** Validar estos wireframes con 5 usuarios reales (idealmente que coincidan con la persona "Mariano") para medir el tiempo en la tarea y la percepción de facilidad.
 2.  **Test A/B:** Implementar la nueva versión del formulario y medirla contra la versión original para cuantificar el impacto en la tasa de conversión del checkout.
 
-![Texto descriptivo de mi GIF](prototipo.gif)
+![Texto descriptivo de mi GIF](Caso_de_Estudio_UX_Fravega.gif)
