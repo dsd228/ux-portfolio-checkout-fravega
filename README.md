@@ -65,7 +65,7 @@ El diseño eleva la jerarquía de "Tipo de Factura", soluciona la ambigüedad de
 
 Muestra el campo de teléfono con microcopy de ayuda y la opción "Consumidor Final" seleccionada por defecto.
 
-(URL_DE_TU_IMAGEN_1_AQUI)
+frame1.png
 
 #### Frame 2: Flujo de Interacción (Factura A)
 
