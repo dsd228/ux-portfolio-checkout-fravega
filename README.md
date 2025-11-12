@@ -65,13 +65,13 @@ El diseño eleva la jerarquía de "Tipo de Factura", soluciona la ambigüedad de
 
 Muestra el campo de teléfono con microcopy de ayuda y la opción "Consumidor Final" seleccionada por defecto.
 
-"frame1.png"
+![Wireframe - Estado por Defecto](frame1.png)
 
 #### Frame 2: Flujo de Interacción (Factura A)
 
 Al seleccionar "Factura A", la interfaz revela de forma limpia los campos condicionales (CUIT y Razón Social) necesarios para ese flujo.
 
-frame2.png
+![Wireframe - Flujo Factura A](frame2.png)
 
 ## 5\. Conclusiones y Próximos Pasos
 
